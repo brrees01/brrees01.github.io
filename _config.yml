@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Brandon's Blog'
+title: 'My Blog'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'Matthew is the BEST!'
@@ -26,7 +26,7 @@ author: brrees01
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://brrees01.github.io'
-baseurl: '/feeling-responsive'
+baseurl: '/my-blog'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
