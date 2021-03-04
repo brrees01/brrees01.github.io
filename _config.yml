@@ -8,13 +8,13 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'My Streaming Adventures'
+title: 'My Blogging Adventures'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Where new streamers can be born.'
+slogan: 'Where adventures are endless.'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '»My Streaming Adventures« is a blog site where users of all types can learn to stream, even if you're new to the idea and have no idea how to configure anything!'
+description: '»My Streaming Adventures« is a blog site where I post about all of my different adventures!'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
